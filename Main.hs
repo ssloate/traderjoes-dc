@@ -49,7 +49,7 @@ handleArgs ["gen"] = do
 handleArgs ["fetch"] = do
   conn <- openDB
   let stores =
-        [ "701" -- Chicago South Loop
+        [ "662" -- DC
         , "31" -- Los Angeles
         , "546" -- NYC East Village
         , "452" -- Austin Seaholm
