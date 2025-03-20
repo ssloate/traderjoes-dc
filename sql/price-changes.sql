@@ -46,6 +46,6 @@ WHERE
   AND next_price IS NOT NULL
   AND retail_price != "0.01"
   AND next_price != "0.01"
-  AND store_code = "662"
+  AND store_code = "c"
 ORDER BY
   next_inserted_at DESC;
