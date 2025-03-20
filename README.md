@@ -27,6 +27,7 @@ $ traderjoes gen
 
 ## Dedication
 
+
 This project is dedicated to Trader Joe's Hyde Park in Chicago. Store code `706`.
 
 ![trader-joes-store](https://github.com/cmoog/traderjoes/assets/7585078/1d984c08-55dc-4686-8d2d-60629bfb77a2)

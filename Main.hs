@@ -52,7 +52,6 @@ handleArgs ["fetch"] = do
         [ "662" -- DC
         , "31" -- Los Angeles
         , "546" -- NYC East Village
-        , "452" -- Austin Seaholm
         ]
   printlog $ "fetching stores: " <> show stores
   SQL.withTransaction conn $

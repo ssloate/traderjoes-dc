@@ -6,3 +6,4 @@ CREATE TABLE IF NOT EXISTS items (
   store_code text,
   availability text
 );
+

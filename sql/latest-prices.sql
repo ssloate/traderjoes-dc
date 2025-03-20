@@ -22,7 +22,7 @@ FROM
 WHERE
   rn = 1
   AND retail_price != "0.01"
-  AND store_code = "662"
+  AND store_code = "662" 
   -- AND availability = "1"
 ORDER BY
   item_title;

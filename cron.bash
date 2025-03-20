@@ -10,3 +10,5 @@ wrangler pages deploy --project-name traderjoesprices ./site
 wrangler r2 object put traderjoesprices-data/dump.csv \
   --file ./dump.csv \
   --cd 'attachment; filename="traderjoes-dump.csv"'
+
+

@@ -48,4 +48,7 @@ query SearchProducts($pageSize: Int, $currentPage: Int, $storeCode: String, $pub
     }
     __typename
   }
+  
 }
+
+
