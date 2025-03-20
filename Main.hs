@@ -77,7 +77,7 @@ pageBody changes items timestamp = do
   H.br
   H.br
   H.strong ! A.style "font-size: 1.15em; font-family: serif" $ do
-    H.i "Disclaimer: This website is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Trader Joe's, or any of its subsidiaries or its affiliates. All prices are sourced from Trader Joe's South Loop in Chicago, IL (store code 701). There may be regional price differences from those listed on this site. This website may include discontinued or unavailable products."
+    H.i "Disclaimer: This website is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Trader Joe's, or any of its subsidiaries or its affiliates. All prices are sourced from the 14th St Trader Joe's in DC (store code 662). There may be regional price differences from those listed on this site. This website may include discontinued or unavailable products."
   H.br
   H.h1 "(Unofficial) Trader Joe's Price Tracking"
   H.form ! A.action "signup" ! A.class_ "signup-form" ! A.role "form" $ do
